@@ -428,53 +428,25 @@ async def mcp_docs():
 </div>
 
 <div class="setup-nav">
-  <a href="#setup-chatgpt">ChatGPT</a>
   <a href="#setup-claude">Claude</a>
-  <a href="#setup-gemini">Gemini</a>
-</div>
-
-<!-- ---- ChatGPT ---- -->
-<div class="card" id="setup-chatgpt">
-  <h3>ChatGPT</h3>
-  <p style="margin-bottom:12px; font-size:14px; color:var(--gray-500)">Plus, Team, and Enterprise plans</p>
-  <ol style="padding-left:20px; font-size:14px; color:var(--gray-700)">
-    <li style="margin-bottom:6px">Go to <a href="https://chatgpt.com" style="color:var(--brown)">chatgpt.com</a> &rarr; <strong>Settings</strong> &rarr; <strong>Connected apps</strong></li>
-    <li style="margin-bottom:6px">Click <strong>Add connection</strong></li>
-    <li style="margin-bottom:6px">Paste the URL: <code style="background:var(--gray-100);padding:2px 6px;border-radius:4px;font-size:13px">https://rwjf-mcp.workingpaper.co/mcp/</code></li>
-    <li style="margin-bottom:6px">Complete any authentication prompts</li>
-    <li>Start a new chat &mdash; the report tools appear when you click the tools icon</li>
-  </ol>
-  <details style="margin-top:16px; font-size:13px; color:var(--gray-500)">
-    <summary style="cursor:pointer; font-weight:600; color:var(--gray-700)">Developer: OpenAI Responses API</summary>
-    <div style="background:var(--gray-100); padding:14px 18px; border-radius:var(--radius-sm); font-family:'SF Mono','Fira Code',monospace; font-size:13px; color:var(--gray-900); border:1px solid var(--gray-200); overflow-x:auto; white-space:pre; line-height:1.5; margin-top:10px">import openai
-
-client = openai.OpenAI()
-resp = client.responses.create(
-    model="gpt-4.1",
-    input="What is the racial wealth gap in New Jersey?",
-    tools=[{{
-        "type": "mcp",
-        "server_label": "njrc-report",
-        "server_url": "https://rwjf-mcp.workingpaper.co/mcp/",
-        "require_approval": "never",
-    }}],
-)</div>
-  </details>
+  <a href="#setup-chatgpt">ChatGPT</a>
 </div>
 
 <!-- ---- Claude ---- -->
 <div class="card" id="setup-claude">
   <h3>Claude</h3>
-  <p style="margin-bottom:12px; font-size:14px; color:var(--gray-500)">claude.ai or the Claude desktop app</p>
+  <p style="margin-bottom:12px; font-size:14px; color:var(--gray-500)">Works on claude.ai (Pro, Team, or Enterprise) and the Claude desktop app</p>
   <ol style="padding-left:20px; font-size:14px; color:var(--gray-700)">
-    <li style="margin-bottom:6px">Go to <a href="https://claude.ai" style="color:var(--brown)">claude.ai</a> &rarr; click your name (bottom left) &rarr; <strong>Settings</strong> &rarr; <strong>Integrations</strong></li>
-    <li style="margin-bottom:6px">Click <strong>Add Integration</strong> &rarr; choose <strong>MCP</strong></li>
-    <li style="margin-bottom:6px">Paste the URL: <code style="background:var(--gray-100);padding:2px 6px;border-radius:4px;font-size:13px">https://rwjf-mcp.workingpaper.co/mcp/</code></li>
-    <li style="margin-bottom:6px">If prompted, enter the server password</li>
-    <li>Start a new chat &mdash; Claude will automatically use the report when answering your questions</li>
+    <li style="margin-bottom:8px">Go to <a href="https://claude.ai" style="color:var(--brown)">claude.ai</a> and sign in</li>
+    <li style="margin-bottom:8px">Click your name in the bottom left corner, then click <strong>Settings</strong></li>
+    <li style="margin-bottom:8px">Click <strong>Integrations</strong> in the left sidebar</li>
+    <li style="margin-bottom:8px">Click <strong>Add Integration</strong>, then choose <strong>MCP</strong></li>
+    <li style="margin-bottom:8px">Paste this URL: <code style="background:var(--gray-100);padding:4px 8px;border-radius:4px;font-size:14px">https://rwjf-mcp.workingpaper.co/mcp/</code></li>
+    <li style="margin-bottom:8px">Click <strong>Connect</strong> (if prompted for a password, ask your administrator)</li>
+    <li>Start a new chat and ask any question about the report &mdash; Claude will automatically look up the answer</li>
   </ol>
   <details style="margin-top:16px; font-size:13px; color:var(--gray-500)">
-    <summary style="cursor:pointer; font-weight:600; color:var(--gray-700)">Claude Desktop app or Claude Code (advanced)</summary>
+    <summary style="cursor:pointer; font-weight:600; color:var(--gray-700)">Advanced: Claude Desktop app or Claude Code</summary>
     <div style="margin-top:10px">
       <p style="margin-bottom:8px"><strong>Desktop app</strong> &mdash; add to your config file (<code style="font-size:12px">~/Library/Application Support/Claude/claude_desktop_config.json</code>):</p>
       <div style="background:var(--gray-100); padding:14px 18px; border-radius:var(--radius-sm); font-family:'SF Mono','Fira Code',monospace; font-size:13px; color:var(--gray-900); border:1px solid var(--gray-200); overflow-x:auto; white-space:pre; line-height:1.5">{{
@@ -493,40 +465,45 @@ resp = client.responses.create(
   </details>
 </div>
 
-<!-- ---- Gemini ---- -->
-<div class="card" id="setup-gemini">
-  <h3>Gemini</h3>
-  <p style="margin-bottom:12px; font-size:14px; color:var(--gray-500)">Google AI Studio or Gemini API</p>
+<!-- ---- ChatGPT ---- -->
+<div class="card" id="setup-chatgpt">
+  <h3>ChatGPT</h3>
+  <p style="margin-bottom:12px; font-size:14px; color:var(--gray-500)">Requires ChatGPT Plus, Team, or Enterprise</p>
   <ol style="padding-left:20px; font-size:14px; color:var(--gray-700)">
-    <li style="margin-bottom:6px">Go to <a href="https://aistudio.google.com" style="color:var(--brown)">aistudio.google.com</a> &rarr; open a prompt</li>
-    <li style="margin-bottom:6px">In the left panel, click <strong>Tools</strong> &rarr; <strong>Add tool</strong> &rarr; <strong>MCP Server</strong></li>
-    <li style="margin-bottom:6px">Paste the URL: <code style="background:var(--gray-100);padding:2px 6px;border-radius:4px;font-size:13px">https://rwjf-mcp.workingpaper.co/mcp/</code></li>
-    <li style="margin-bottom:6px">Complete authentication if prompted</li>
-    <li>The report tools appear in your tool list &mdash; start asking questions</li>
+    <li style="margin-bottom:8px">Go to <a href="https://chatgpt.com" style="color:var(--brown)">chatgpt.com</a> and sign in</li>
+    <li style="margin-bottom:8px">Click your profile picture in the top right, then click <strong>Settings</strong></li>
+    <li style="margin-bottom:8px">Click <strong>Connected apps</strong> in the left sidebar</li>
+    <li style="margin-bottom:8px">Click <strong>Add connection</strong></li>
+    <li style="margin-bottom:8px">Paste this URL: <code style="background:var(--gray-100);padding:4px 8px;border-radius:4px;font-size:14px">https://rwjf-mcp.workingpaper.co/mcp/</code></li>
+    <li style="margin-bottom:8px">Complete any prompts that appear</li>
+    <li>Start a new chat &mdash; the report tools will appear when you click the tools icon at the bottom of the chat</li>
   </ol>
   <details style="margin-top:16px; font-size:13px; color:var(--gray-500)">
-    <summary style="cursor:pointer; font-weight:600; color:var(--gray-700)">Developer: Gemini API (Python)</summary>
-    <div style="background:var(--gray-100); padding:14px 18px; border-radius:var(--radius-sm); font-family:'SF Mono','Fira Code',monospace; font-size:13px; color:var(--gray-900); border:1px solid var(--gray-200); overflow-x:auto; white-space:pre; line-height:1.5; margin-top:10px">from google import genai
+    <summary style="cursor:pointer; font-weight:600; color:var(--gray-700)">Advanced: OpenAI Responses API</summary>
+    <div style="background:var(--gray-100); padding:14px 18px; border-radius:var(--radius-sm); font-family:'SF Mono','Fira Code',monospace; font-size:13px; color:var(--gray-900); border:1px solid var(--gray-200); overflow-x:auto; white-space:pre; line-height:1.5; margin-top:10px">import openai
 
-client = genai.Client()
-tools = genai.types.Tool(
-    mcp_servers=[genai.types.McpServer(
-        url="https://rwjf-mcp.workingpaper.co/mcp/",
-        tool_filter=["report/*"],
-    )]
-)
-response = client.models.generate_content(
-    model="gemini-2.5-flash",
-    contents="What is the racial wealth gap in NJ?",
-    config=genai.types.GenerateContentConfig(
-        tools=[tools],
-    ),
+client = openai.OpenAI()
+resp = client.responses.create(
+    model="gpt-4.1",
+    input="What is the racial wealth gap in New Jersey?",
+    tools=[{{
+        "type": "mcp",
+        "server_label": "njrc-report",
+        "server_url": "https://rwjf-mcp.workingpaper.co/mcp/",
+        "require_approval": "never",
+    }}],
 )</div>
   </details>
 </div>
 
+<!-- ---- Gemini note ---- -->
+<div class="card" style="border-left: 4px solid var(--gray-400);">
+  <h3 style="color: var(--gray-500)">Google Gemini</h3>
+  <p style="font-size:14px; color:var(--gray-500)">The consumer Gemini app and website do not currently support connecting to custom MCP servers. This feature is only available through Google&rsquo;s developer tools (Gemini CLI, AI Studio, and the Gemini API). We&rsquo;ll update this page if Google adds MCP support for everyday users.</p>
+</div>
+
 <div class="callout" style="margin-top:24px; background: var(--brown-mist); border: 1px solid var(--brown-pale); border-radius: var(--radius); padding: 20px 24px; font-size: 14px;">
-  <strong style="color: var(--brown)">That&rsquo;s it!</strong> Once connected on any platform, just type a question in plain English like
+  <strong style="color: var(--brown)">That&rsquo;s it!</strong> Once connected, just type a question in plain English like
   <em>&ldquo;What does the report say about the racial wealth gap?&rdquo;</em>
   &mdash; the AI will automatically look up the answer from the report.
 </div>

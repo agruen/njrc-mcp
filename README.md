@@ -71,24 +71,24 @@ docker compose up --build -d
 
 ### Connect from Claude
 
-1. Go to [claude.ai](https://claude.ai) and click your name (bottom left) -> **Settings** -> **Integrations**
-2. Click **Add Integration** -> choose **MCP**
-3. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
-4. Start a new chat — Claude will automatically use the report when answering your questions
+1. Go to [claude.ai](https://claude.ai) and sign in
+2. Click your name in the bottom left corner, then click **Settings**
+3. Click **Integrations** in the left sidebar
+4. Click **Add Integration**, then choose **MCP**
+5. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
+6. Click **Connect**
+7. Start a new chat and ask any question — Claude will automatically look up the answer from the report
 
 ### Connect from ChatGPT
 
-1. Go to [chatgpt.com](https://chatgpt.com) -> **Settings** -> **Connected apps**
-2. Click **Add connection**
-3. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
-4. Start a new chat — the report tools appear when you click the tools icon
+1. Go to [chatgpt.com](https://chatgpt.com) and sign in (requires Plus, Team, or Enterprise)
+2. Click your profile picture in the top right, then click **Settings**
+3. Click **Connected apps** in the left sidebar
+4. Click **Add connection**
+5. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
+6. Start a new chat — the report tools appear when you click the tools icon
 
-### Connect from Gemini
-
-1. Go to [aistudio.google.com](https://aistudio.google.com) and open a prompt
-2. In the left panel, click **Tools** -> **Add tool** -> **MCP Server**
-3. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
-4. Start asking questions about the report
+> **Note:** Google Gemini does not currently support connecting to custom MCP servers for everyday users. This feature is only available through Google's developer tools.
 
 ## Architecture
 
