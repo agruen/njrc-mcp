@@ -1,0 +1,1194 @@
+{
+  "document_id": "njrc_reparations_report_2025",
+  "semantic_version": "1.0.0",
+  "schema_version": "1.0.0",
+  "released_at": "2025-06-01",
+  "title": "For Such a Time as This: The Nowness of Reparations for Black People in New Jersey",
+  "short_title": "NJ Reparations Council Report",
+  "publisher": "New Jersey Institute for Social Justice",
+  "partner": "Robert Wood Johnson Foundation",
+  "status": "published",
+  "website": "https://www.njisj.org",
+
+  "source_document": {
+    "title": "For Such a Time as This: The Nowness of Reparations for Black People in New Jersey",
+    "publisher_label": "New Jersey Institute for Social Justice / New Jersey Reparations Council",
+    "last_updated": "2025-06-01"
+  },
+
+  "copyright": {
+    "year": 2025,
+    "holder": "New Jersey Institute for Social Justice",
+    "notice": "For Such a Time as This: The Nowness of Reparations for Black People in New Jersey — A Report from the New Jersey Reparations Council, June 2025.",
+    "usage_restrictions": "For educational, informational, and policy advocacy purposes."
+  },
+
+  "attribution": {
+    "required": true,
+    "short_label": "NJ Reparations Council Report (2025)",
+    "statement": "Based on 'For Such a Time as This: The Nowness of Reparations for Black People in New Jersey,' a report from the New Jersey Reparations Council, convened by the New Jersey Institute for Social Justice in partnership with the Robert Wood Johnson Foundation (June 2025)."
+  },
+
+  "mission": "To confront New Jersey's deep and often overlooked history of slavery and its enduring impact on the contemporary lives of Black people, and to propose bold, strategic and transformative policies and investments for reparative justice.",
+
+  "co_chairs": [
+    {
+      "name": "Khalil Gibran Muhammad",
+      "title": "Inaugural Professor of African American Studies and Public Affairs, Princeton University"
+    },
+    {
+      "name": "Taja-Nia Henderson",
+      "title": "Professor of Law, Rutgers University"
+    }
+  ],
+
+  "council_president": {
+    "name": "Ryan P. Haygood",
+    "title": "President & CEO, New Jersey Institute for Social Justice"
+  },
+
+  "stakeholder_types": ["policymakers", "educators", "community_members", "researchers", "faith_leaders", "advocates"],
+
+  "key_statistics": [
+    {"label": "Racial Wealth Gap (Families)", "value": "$643,000", "detail": "Gap between median white family wealth ($662,500) and Black family wealth ($19,700) in New Jersey"},
+    {"label": "Racial Wealth Gap (Individuals)", "value": "$178,700", "detail": "Gap between median white individual wealth ($192,700) and Black individual wealth ($14,000) in NJ"},
+    {"label": "Years of Slavery in NJ", "value": "236 years", "detail": "From 1630 to 1866, New Jersey authorized the enslavement of Black people"},
+    {"label": "Enslaved by 1830", "value": "12,000+", "detail": "More than 12,000 Black people were enslaved in NJ — more than all other northern states combined"},
+    {"label": "Black Infant Mortality", "value": "3-4x", "detail": "Black infants die at 3-4 times the rate of white infants in New Jersey"},
+    {"label": "Black Maternal Mortality", "value": "7x", "detail": "Black women nearly seven times more likely to die in perinatal/postpartum period than white women"},
+    {"label": "Black Incarceration Rate", "value": "12x", "detail": "Black adults are 12 times more likely to be incarcerated than white adults in NJ"},
+    {"label": "Youth Incarceration Disparity", "value": "28x", "detail": "Black youth are 28 times more likely to be incarcerated than white youth in NJ"},
+    {"label": "School Segregation Rank", "value": "7th worst", "detail": "New Jersey schools rank as the 7th most segregated nationwide for Black students"},
+    {"label": "Black Incarcerated Population", "value": "61%", "detail": "61% of incarcerated people in New Jersey are Black"},
+    {"label": "Per Capita Income Gap", "value": "$25,446", "detail": "White per capita income ($63,808) vs Black per capita income ($38,362) in NJ"},
+    {"label": "Black Life Expectancy", "value": "74.6 years", "detail": "Black New Jerseyans had the lowest life expectancy of any racial group in the state in 2022"},
+    {"label": "Investment to Close Gap", "value": "$263-363 billion", "detail": "Estimated investment needed to close the racial wealth gap: $263B (individual) or $363B (household)"},
+    {"label": "Reparations to Enslavers", "value": "~$1 million", "detail": "NJ paid approximately $1 million (in current dollars) in reparations to enslavers between 1806-1811"},
+    {"label": "Newark Segregation", "value": "Most segregated", "detail": "Newark and surrounding Essex County are the most segregated metropolitan region in America with a large Black population"},
+    {"label": "KKK in NJ (1920s)", "value": "60,000+ members", "detail": "Estimated 60,000+ KKK members in NJ in the 1920s — more than Alabama or Louisiana"}
+  ],
+
+  "sections": [
+    {
+      "id": "executive_summary",
+      "code": "ES",
+      "order": 0,
+      "name": "Executive Summary",
+      "summary": "Overview of the report's findings: New Jersey's deep history of slavery, its enduring impact on Black communities, and the urgent call for transformative reparative justice.",
+      "page_start": 1,
+      "page_end": 4,
+      "topics": [
+        {
+          "id": "exec_overview",
+          "code": "ES.1",
+          "order": 0,
+          "name": "Report Overview",
+          "page": 1,
+          "content": "Slavery was not just a sin of the south. It flourished in the north, growing some of its deepest roots in New Jersey. Although slavery shaped almost every aspect of New Jersey, from its founding through today, too many believe it never happened here. In 2023, the New Jersey Institute for Social Justice partnered with the Robert Wood Johnson Foundation to convene the New Jersey Reparations Council to confront this reality. Through an intensive two-year study, the Council engaged deeply to tell the story, from an evidence-based perspective, of New Jersey's deep but often overlooked history of slavery and its enduring impact on the contemporary life of Black people in our state.",
+          "key_points": [
+            "This report draws a throughline from New Jersey's deep embrace of slavery, through its own Jim Crow period and systemic racism, to today's Two New Jerseys characterized by a staggering $643,000 racial wealth gap between Black and white families",
+            "The report invites a period of self-discovery, to see through our perception of a northern progressive state to one profoundly shaped by its original sin of slavery",
+            "Bold and transformative policy and investment recommendations are designed to help create a new New Jersey where Black people are empowered to finally be free, to be whole and to flourish"
+          ]
+        },
+        {
+          "id": "exec_sections",
+          "code": "ES.2",
+          "order": 1,
+          "name": "Report Structure",
+          "page": 2,
+          "content": "The report tells New Jersey's story in thematic sections covering the colonial era through the present day, culminating in a comprehensive blueprint for repair.",
+          "report_sections": [
+            {"name": "New Jersey: Slave State of the North", "description": "New Jersey's commitment to slavery was so complete that it has been called the 'slave state of the North.' Provides detailed examination of NJ's embrace of slavery, forced labor, brutality, and laws that authorized and defended slavery."},
+            {"name": "New Jersey and the Jim Crow Era", "description": "Despite official end of slavery, NJ's policies held Black people in second-class citizenship through discriminatory policing, violent intimidation and widespread segregation."},
+            {"name": "Two New Jerseys", "description": "Today NJ embodies both one of the wealthiest states and staggering rates of racial disparity in life expectancy, segregation, environmental toxins, wealth, income, and incarceration."},
+            {"name": "The Stories New Jersey Tells Itself", "description": "NJ has failed to confront its own history, obscuring the truth through past and present historical scholarship, school curricula and public memory sites."},
+            {"name": "A Blueprint for Repair", "description": "Bold, strategic and transformative policies and investments to repair enduring harm of slavery and empower Black people to flourish, including direct payments and systemic reform."}
+          ]
+        },
+        {
+          "id": "exec_policy_areas",
+          "code": "ES.3",
+          "order": 2,
+          "name": "Policy Recommendation Areas",
+          "page": 3,
+          "content": "The report proposes policy recommendations designed as strategic policies that would lead to systemic, sustainable change, commensurate in scope with the widespread and lasting harms of slavery and its aftermath, to be implemented in tandem with direct payments.",
+          "policy_areas": [
+            "Democracy",
+            "Economic Justice",
+            "Social Programs and Well-Being",
+            "Health Equity",
+            "Desegregation",
+            "Higher Education",
+            "Environmental Justice",
+            "Public Safety and Justice",
+            "Public Education and Narrative",
+            "Faith Institutions",
+            "Accountability"
+          ],
+          "recommendations": [
+            "Some recommended policies require race-conscious remedies that would require a reimagining of current constitutional jurisprudence",
+            "The Council urges New Jersey to pass a constitutional amendment reflecting the Fourteenth Amendment's original purpose to empower lawmakers to pass remedial legislation",
+            "The report plants seeds for long-term transformational change while also recommending policies that are achievable sooner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preface",
+      "code": "P",
+      "order": 1,
+      "name": "Preface",
+      "summary": "Written by Ryan P. Haygood, President & CEO of the NJ Institute for Social Justice, describing the founding of the NJ Reparations Council and the journey to the report.",
+      "page_start": 5,
+      "page_end": 12,
+      "topics": [
+        {
+          "id": "preface_slavery_two_njs",
+          "code": "P.1",
+          "order": 0,
+          "name": "Slavery and the Two New Jerseys",
+          "page": 8,
+          "content": "A deep and persistent commitment to slavery made New Jersey, in the words of historian and Council member Elaine Buck, the 'slave state of the North.' This goes back to the colony's founding in 1664, when each white family settling in the territory was given 150 acres of land, plus 150 more for each enslaved person they brought with them. By 1830, over two-thirds of all people enslaved in the north were held in New Jersey. Even as other northern jurisdictions moved towards abolition, New Jersey passed gradual abolition legislation, holding Black people captive well into the 1860s. Through that system, New Jersey paid reparations to some former enslavers of Black people for their 'lost property.' All of this led directly to today when Black people in New Jersey face some of the worst racial inequalities in the nation.",
+          "key_points": [
+            "NJ was one of the first northern states to codify white supremacy in laws — restricting vote to white men in 1807",
+            "By 1830, over two-thirds of all people enslaved in the north were held in NJ",
+            "NJ opposed the Emancipation Proclamation and initially refused to ratify the Thirteenth Amendment",
+            "NJ became the last northern state to ratify the Thirteenth Amendment in 1866",
+            "Oppression continued through cottager system, Jim Crow segregation, redlining, and exclusionary zoning"
+          ]
+        },
+        {
+          "id": "preface_say_the_word",
+          "code": "P.2",
+          "order": 1,
+          "name": "Say the Word: Reparations",
+          "page": 10,
+          "content": "The journey to the Council's creation began in 2019 when the Institute and partners worked with the late State Senator Ronald Rice, Assemblywoman Shavonda Sumter and the Legislative Black Caucus to introduce a bill to establish a Reparations Task Force. Advocacy accelerated during the COVID-19 pandemic, which devastated Black communities. In 2020, COVID-19 was the leading cause of death for Black people in New Jersey. The resistance to creating a task force inspired the Say the Word: Reparations campaign.",
+          "key_points": [
+            "Bill modeled on federal H.R. 40 to create a commission studying NJ's slavery history and recommend reparative policies",
+            "COVID-19 was the leading cause of death for Black people in NJ in 2020",
+            "NJ legislature repeatedly failed to advance the task force bill",
+            "Say the Word: Reparations campaign launched in May 2021"
+          ]
+        },
+        {
+          "id": "preface_council",
+          "code": "P.3",
+          "order": 2,
+          "name": "The New Jersey Reparations Council",
+          "page": 10,
+          "content": "On Juneteenth 2023, the Institute partnered with the Robert Wood Johnson Foundation to convene the first-of-its-kind New Jersey Reparations Council. Co-chaired by Khalil Gibran Muhammad and Taja-Nia Henderson, the Council — comprised of university professors, heads of cultural institutions, practitioners, faith leaders and community-based advocates — undertook a mission to confront and repair New Jersey's deep history of slavery and its enduring impact. Over nine public sessions and community events, the Council engaged thousands of people across New Jersey.",
+          "key_points": [
+            "Convened on Juneteenth 2023 in Perth Amboy — a primary port for trafficking enslaved African people",
+            "Nine subject-matter committees studied NJ's unique history of slavery",
+            "Over nine public sessions and community events engaging thousands",
+            "Proposes bold, strategic and transformative policies and investments"
+          ]
+        },
+        {
+          "id": "preface_this_moment",
+          "code": "P.4",
+          "order": 3,
+          "name": "For Such a Time as This",
+          "page": 11,
+          "content": "The Council's reparations report arrives at a moment of crisis for our nation, marked by the evisceration of diversity initiatives in higher education, a decimated Voting Rights Act, the rollback of reproductive rights, attacks on civil rights and the rule of law, detention and deportation of immigrants without due process, and an effort to erase America's racial history altogether. This moment does not call for retreat. Justice will never be achieved by a movement that does not speak its name.",
+          "key_points": [
+            "Report arrives amid national crisis for multiracial democracy and racial justice",
+            "Movement must speak its name — cannot retreat from terms like 'reparations'",
+            "Multi-pronged strategy includes community organizing, public education, narrative change, policy advocacy",
+            "Aim: shift perception of reparations from impossible to inevitable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "introduction",
+      "code": "I",
+      "order": 2,
+      "name": "Introduction",
+      "summary": "Written by Council co-chairs Khalil Gibran Muhammad and Taja-Nia Henderson, establishing the case for reparations in New Jersey with historical evidence and precedent.",
+      "page_start": 13,
+      "page_end": 30,
+      "topics": [
+        {
+          "id": "intro_why_reparations",
+          "code": "I.1",
+          "order": 0,
+          "name": "Why Reparations in New Jersey?",
+          "page": 15,
+          "content": "Beginning in the 1600s and continuing beyond the Thirteenth Amendment, New Jersey was a state where racial chattel slavery thrived and where thousands of Black people were enslaved. The institution of slavery impacted every aspect of New Jersey's economy, from agriculture to shipping, from domestic labor to skilled artisanal labor. Enslaved hands literally built the New Jersey colony, from the ground up, brick by brick. Sometimes referred to as the 'Slave State of the North,' by 1830, New Jersey held more people of African descent in bondage than all other northern states combined.",
+          "key_points": [
+            "NJ was the last northern state to abolish slavery, rejecting ratification of the 13th Amendment initially",
+            "By 1830, NJ held more enslaved people than all other northern states combined",
+            "NJ passed gradual emancipation (1804) but never freed people born before July 1804 — they remained enslaved for life",
+            "NJ authorized reparations to enslavers — about $1 million (current dollars) over six years, up to 27% of state budget",
+            "In 1807, NJ limited voting rights to propertied adult white males only",
+            "In 1821, NJ embraced a legal presumption that all Black people were enslaved"
+          ]
+        },
+        {
+          "id": "intro_history_is_nj",
+          "code": "I.2",
+          "order": 1,
+          "name": "The History of Slavery Is the History of New Jersey",
+          "page": 17,
+          "content": "During slavery and even after abolition, free and enslaved people of African descent in New Jersey were subjected to pernicious differential treatment and exclusion on the basis of race. NJ likely had the 'most severe slave code of the northern colonies.' While nearly every other northern colony devised less barbaric punishments, NJ was still burning Black people at the stake. Today residential and educational segregation in NJ is among the worst in the nation. Newark and Essex County hold the dubious honor of being the most segregated metropolitan region in America with a large Black population.",
+          "key_points": [
+            "NJ had the 'most severe slave code of the northern colonies'",
+            "NJ criminalized settlement of freed Black persons from other states",
+            "Rutgers didn't admit a Black student until 1888; Princeton was built with donations from enslavers",
+            "Newark City Hospital did not admit a Black doctor until 1946",
+            "NJ schools rank 7th most segregated nationwide"
+          ]
+        },
+        {
+          "id": "intro_harm_redress",
+          "code": "I.3",
+          "order": 2,
+          "name": "Black Harm Deserves Redress",
+          "page": 18,
+          "content": "Reparations present the opportunity to transform society through policymaking focused on redressing harm to Black people. Civic and political leaders in New Jersey embedded white supremacist beliefs and practices into every aspect of society. Persistent discrimination against Black people in education, housing and employment resulted in generations of Black New Jerseyans having little to no opportunity for economic progress. While white per capita income is $63,808, Black per capita income is just $38,362. NJ has one of the nation's largest wealth gaps.",
+          "key_points": [
+            "Median net wealth: Black $14,000 vs white $192,700 (more than 13x difference)",
+            "Black family wealth: $19,700 vs white family wealth: $662,500",
+            "78% of Newark residents are renters",
+            "Black life expectancy (74.6 years) is lowest of any racial group in NJ",
+            "Black infants die at 3-4 times the rate of white infants (up from 1.9x in 1925)"
+          ]
+        },
+        {
+          "id": "intro_reparations_human_rights",
+          "code": "I.4",
+          "order": 3,
+          "name": "Reparations as Human Rights",
+          "page": 21,
+          "content": "Around the world, reparations are widely recognized as foundational to securing redress for those whose rights have been systematically violated. The Council's mission rests on a foundation of centuries of precedent. Reparations have long been integral to the legal frameworks of Europe and America. Some of the earliest examples of reparations to individual Black people occurred in the late 18th century — in 1783, Belinda Sutton sued the estate of her former enslaver and won.",
+          "key_points": [
+            "Belinda Sutton successfully sued her former enslaver's estate for reparations in 1783",
+            "Nearly fifty countries or territories have paid enslavers reparations",
+            "NJ's Gradual Abolition Act (1804) authorized compensation payments to white enslavers",
+            "DC Compensated Emancipation Act (1862) paid enslavers ~$35 million in today's dollars",
+            "In virtually all cases where slavery reparations have been paid, compensation went to enslavers, not the enslaved"
+          ]
+        },
+        {
+          "id": "intro_movement_history",
+          "code": "I.5",
+          "order": 4,
+          "name": "The Historical Movement for Reparations",
+          "page": 22,
+          "content": "Black Americans have faced long odds for achieving justice and compensation in a nation that derived great wealth and power from their suffering. In 1897, Callie House helped found the National Ex-Slave Mutual Relief, Bounty and Pension Association, mobilizing 300,000 Black people to petition the federal government. H.R. 40 has been introduced in Congress every year since 1989. Paul Robeson led a coalition to the United Nations in 1951 to present 'We Charge Genocide.' Amiri Baraka organized the 1972 National Black Political Convention in Gary, Indiana, where reparations were among the resolutions.",
+          "key_points": [
+            "Callie House mobilized 300,000 Black people for reparations in 1897 — was convicted of mail fraud for her efforts",
+            "H.R. 40 reparations study bill has languished in Congress for 35+ years",
+            "Paul Robeson presented 'We Charge Genocide' to the UN in 1951",
+            "NJ Reparations Task Force legislation introduced 2019 but repeatedly failed to advance",
+            "18 municipalities and 2 counties have passed resolutions supporting the bill"
+          ]
+        },
+        {
+          "id": "intro_successful_programs",
+          "code": "I.6",
+          "order": 5,
+          "name": "Examples of Successful Reparations Programs",
+          "page": 26,
+          "content": "Reparations programs around the world demonstrate that redress is possible and precedented. Germany's reparations to Holocaust survivors have paid an estimated 80+ billion euros. Japanese Americans received $20,000 each under the 1988 Civil Liberties Act. California became the first state to enact a Reparations Task Force bill in 2020. Evanston, Illinois established a $10 million reparations fund by taxing cannabis sales. Chicago paid reparations to victims of racially motivated police torture in 2015.",
+          "examples": [
+            {"program": "German Holocaust Reparations", "detail": "80+ billion euros paid to victims and survivors; ongoing through Claims Conference"},
+            {"program": "Japanese American Internment (1988)", "detail": "$20,000 per claimant under Civil Liberties Act; symbolic payment to call attention to issue"},
+            {"program": "Rosewood, Florida (1990s)", "detail": "Compensation to victims of the 1923 massacre authorized by Florida legislature"},
+            {"program": "Chicago Police Torture (2015)", "detail": "First US city to compensate victims of racially motivated police torture (1970s-1990s)"},
+            {"program": "California Reparations Task Force (2020)", "detail": "First state task force; published report with 115+ recommendations in July 2023"},
+            {"program": "Evanston, Illinois (2019)", "detail": "$10 million fund from cannabis taxes; $25,000 per eligible person for housing"},
+            {"program": "Prince Edward County, VA (2004)", "detail": "Redress for Black community harmed when schools closed 1959-1964 to evade desegregation"}
+          ]
+        },
+        {
+          "id": "intro_what_reparations_solve",
+          "code": "I.7",
+          "order": 6,
+          "name": "What Reparations Solve",
+          "page": 28,
+          "content": "Slavery and subsequent institutionalized discrimination were fundamentally about economic exploitation. Historian Edward Baptist emphasizes that 'Slavery was central to American capitalism, not peripheral to it.' Comprehensive reparations require cash payments as well as policy investments that take into account non-market damages such as health disparities, environmental racism and social disruption. There is no such thing as trickle down justice. Just as enslavers were paid reparations, white settlers given land for free, and white homeowners given subsidized housing loans, Black people must finally be made whole.",
+          "key_points": [
+            "Slavery was central to American capitalism, not peripheral",
+            "Reparations without systemic policy changes would lead to continued injustices",
+            "Negative racial attitudes are more predictive of opposition to reparations than ideology or partisanship",
+            "Even high-income Black individuals often lack inherited wealth accessible to white counterparts",
+            "Top 20% income: Black households $554,100 vs white $1,429,800; Bottom 20%: Black $5,101 vs white $43,100"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slave_state",
+      "code": "II",
+      "order": 3,
+      "name": "New Jersey: Slave State of the North",
+      "summary": "Detailed examination of New Jersey's embrace of slavery from the Colonial Era through 1870, including the forced labor system, brutality, gradual abolition, and resistance.",
+      "page_start": 31,
+      "page_end": 74,
+      "topics": [
+        {
+          "id": "slavery_takes_root",
+          "code": "II.1",
+          "order": 0,
+          "name": "Slavery Takes Root in New Jersey",
+          "page": 35,
+          "content": "As early as 1626, the Dutch West India Company brought enslaved African people to New Netherland. By 1630, 50 enslaved African people on a plantation across the Hudson became the first Black residents of New Jersey. In 1664, slavery gained legal recognition under the Articles of Capitulation. The Concession and Agreement offered 150 acres to every English family, with 150 more for each enslaved person they brought. By the onset of the American Revolution in 1775, more than 8,000 enslaved people were living in NJ — about 10% of the colony's population.",
+          "key_points": [
+            "First enslaved Africans in NJ territory by 1630",
+            "1664: Slavery gained formal legal recognition under English rule",
+            "Colony incentivized slavery with 150-acre land grants per enslaved person",
+            "By 1745: 4,606 enslaved individuals; Bergen County had nearly 20% enslaved residents",
+            "By 1775: 8,000+ enslaved people (10% of population, 'majority of farm workers')",
+            "Perth Amboy: All but one of 300 white households held enslaved people",
+            "By early 19th century: 12,000+ enslaved — more than all other New England states combined"
+          ]
+        },
+        {
+          "id": "labor_enslaved",
+          "code": "II.2",
+          "order": 1,
+          "name": "Labor Performed by the Enslaved",
+          "page": 37,
+          "content": "Unlike mono-crop plantation states, enslavement in NJ varied widely. Colonial NJ's economy was primarily rural and agricultural, focused on livestock, crop production, spinning linen, making wool, tanning leather, and constructing houses. Enslaved people worked as 'carpenters, blacksmiths, copper, tanner and leatherworkers,' in ironworks, copper mining, skilled trades. The labor of enslaved people produced rubber, shoes, clothing, glass, leather and iron goods. Southern states were large consumers of industrial goods produced by enslaved laborers in NJ.",
+          "key_points": [
+            "In 1740, three-fourths of corn planted and hoed, and flax raised and dressed, was performed by enslaved people",
+            "Enslaved people worked in agriculture, industry, mining, domestic labor, and skilled trades",
+            "Colonel Lewis Morris enslaved 60-70 Black people in Shrewsbury, Monmouth County (1680s)",
+            "NJ's economic interests were interdependent on enslaved Black labor at home and in the south",
+            "White NJ residents 'increasingly felt that the abolition of southern slavery would ruin them economically'"
+          ]
+        },
+        {
+          "id": "sickness_violence_law",
+          "code": "II.3",
+          "order": 2,
+          "name": "Sickness, Violence and the Law in the Era of Slavery",
+          "page": 43,
+          "content": "The institution of slavery decimated Black health, safety and well-being. Slavery rendered Black people vulnerable to infectious diseases, sexual and physical abuse, medical experimentation, and lasting mental and physical traumas. Enslaved girls frequently bore children before reaching maturity. Several modern medical practices, including in surgery and gynecology, were developed through violent medical experimentation on enslaved Black people. NJ's slave code was among the most severe in the northern colonies.",
+          "key_points": [
+            "NJ likely had 'most severe slave code of the northern colonies'",
+            "Modern gynecological and surgical practices were developed through experimentation on enslaved people",
+            "Enslaved women forced to continue physical labor during pregnancy",
+            "Black people in NJ could be burned at the stake as punishment",
+            "Health harms of slavery directly linked to present-day racial health disparities"
+          ]
+        },
+        {
+          "id": "gradual_abolition",
+          "code": "II.4",
+          "order": 3,
+          "name": "Clinging to Slavery: Gradual Abolition",
+          "page": 45,
+          "content": "Even as other northern jurisdictions moved toward abolition, NJ passed only gradual abolition legislation in 1804. People born before July 1804 remained enslaved for life. Children born after were enslaved until their twenties. NJ authorized reparations to enslavers, paying restitution for their lost 'human property.' Payments amounted to about $1 million over six years (in current dollars) and up to 27% of the state's annual budget. NJ opposed the Emancipation Proclamation and initially refused to ratify the Thirteenth Amendment. Slavery did not end in NJ until 1866.",
+          "key_points": [
+            "1804 Gradual Abolition Act did not free anyone born before July 1804",
+            "Children born after July 1804 remained enslaved until their twenties",
+            "NJ paid reparations to enslavers: ~$1 million (current dollars), up to 27% of state budget",
+            "NJ opposed the Emancipation Proclamation",
+            "NJ initially refused to ratify the 13th Amendment; slavery ended via state amendment in 1866",
+            "NJ was the last northern state to abolish slavery"
+          ]
+        },
+        {
+          "id": "higher_education_complicity",
+          "code": "II.5",
+          "order": 4,
+          "name": "The Complicity of Higher Education",
+          "page": 47,
+          "content": "Princeton University (then College of New Jersey) laid Nassau Hall's bricks with donations from enslavers. It became a bastion for slaveholding elites from the West Indies and southern colonies. 'Slavery was everywhere in town, surrounding and permeating the school.' Rutgers did not admit a Black student until 1888. Douglass College did not enroll a Black woman until 1934, and only then by mistake — Julia Baxter was admitted on the mistaken belief she was white.",
+          "key_points": [
+            "Princeton built with donations from enslavers; became bastion for slaveholding elites",
+            "Paul Robeson described life around Princeton as 'living on a southern plantation'",
+            "Rutgers: first Black student 1888 (James Dickson Carr)",
+            "Douglass College: first Black woman 1934 (Julia Baxter, admitted by mistake)",
+            "Higher education institutions both participated in and profited from slavery"
+          ]
+        },
+        {
+          "id": "faith_complicity",
+          "code": "II.6",
+          "order": 5,
+          "name": "Complicity of Faith Institutions and Religions of the Enslaved",
+          "page": 49,
+          "content": "Faith institutions in NJ were deeply complicit in slavery. Churches held enslaved people, and clergy personally enslaved Black people. Religious leaders used biblical justifications for slavery. At the same time, enslaved Black people developed their own faith traditions that became foundations for resistance and community organizing.",
+          "key_points": [
+            "NJ churches and clergy personally enslaved Black people",
+            "Religious leaders used biblical justifications for the institution of slavery",
+            "Enslaved people developed their own faith traditions as forms of resistance",
+            "Faith institutions profited directly from the labor of enslaved people"
+          ]
+        },
+        {
+          "id": "faith_resistance",
+          "code": "II.7",
+          "order": 6,
+          "name": "Faith and Black Resistance",
+          "page": 55,
+          "content": "From the beginning, Black people in New Jersey fiercely resisted, escaped and fought to liberate themselves. Faith was a central component of resistance, with Black religious communities serving as organizing centers for freedom movements. The Underground Railroad operated throughout NJ, with communities like Timbuctoo serving as way stations for freedom seekers.",
+          "key_points": [
+            "Black faith communities served as organizing centers for resistance",
+            "Underground Railroad operated throughout NJ",
+            "Black people resisted slavery through escape, organized resistance, and community building"
+          ]
+        },
+        {
+          "id": "underground_railroad",
+          "code": "II.8",
+          "order": 7,
+          "name": "Seeking Freedom and the Underground Railroad",
+          "page": 57,
+          "content": "The Underground Railroad was a network of safe houses and escape routes used by enslaved Black people fleeing to freedom. NJ was a critical corridor in this network due to its location between slaveholding states and free northern territory. Communities of free Black people in NJ served as way stations and sanctuaries for freedom seekers.",
+          "key_points": [
+            "NJ was a critical corridor for the Underground Railroad",
+            "Communities of free Black people served as way stations",
+            "Strategic location between slaveholding states and free territory"
+          ]
+        },
+        {
+          "id": "democratic_exclusion",
+          "code": "II.9",
+          "order": 8,
+          "name": "Democratic Exclusion",
+          "page": 67,
+          "content": "In 1807, NJ restricted voting rights to propertied adult white males, stripping women and free Black people of the franchise. In 1821, the NJ Supreme Court declared 'all black men, in contemplation of the law, are prima facie slaves.' Black New Jerseyans did not regain the right to vote until 1870 via the Fifteenth Amendment. NJ criminalized the settlement of freed Black persons from other states and criminalized residents who helped them settle.",
+          "key_points": [
+            "1807: Voting restricted to propertied adult white males",
+            "1821: NJ embraced legal presumption that all Black people were enslaved (Gibbons v. Morse)",
+            "Black NJ residents did not regain right to vote until 1870 (15th Amendment)",
+            "NJ criminalized settlement of freed Black people from other states"
+          ]
+        },
+        {
+          "id": "abolition_with_reparations",
+          "code": "II.10",
+          "order": 9,
+          "name": "Last in the North: Abolition with Reparations to Enslavers",
+          "page": 68,
+          "content": "NJ was the last northern state to end slavery. Through its gradual abolition system, NJ paid reparations to enslavers for their 'lost property.' The payments amounted to approximately $1 million in current dollars over a six-year period, consuming up to 27% of the state's annual budget. The enslaved received nothing. NJ did not ratify the Thirteenth Amendment until 1866 — via a state constitutional amendment that finally ended slavery in the state.",
+          "key_points": [
+            "Last northern state to abolish slavery",
+            "Paid reparations to enslavers: ~$1M in current dollars over 6 years",
+            "Payments consumed up to 27% of state's annual budget",
+            "The enslaved received no compensation whatsoever",
+            "Did not ratify 13th Amendment until 1866"
+          ]
+        }
+      ],
+      "spotlights": [
+        {
+          "id": "spotlight_lockey_white",
+          "name": "Lockey White",
+          "page": 41,
+          "summary": "One of thousands enslaved in NJ, Lockey White lived her entire life in bondage. She didn't receive freedom until January 1866. In the 1860 census, she was labeled 'slave for life.' Her lifetime spanned the War of 1812, industrial revolutions, and the Civil War — through it all, she remained enslaved."
+        },
+        {
+          "id": "spotlight_friday",
+          "name": "Friday",
+          "page": 53,
+          "summary": "Born May 29, 1767, Friday was an enslaved boy brought to NJ at age 13 by Reverend Oliver Hart. He was enslaved until age 28 when Hart died in 1795. Manumitted in 1801, by 1817 Friday became a property owner, purchasing 20.57 acres in Hunterdon County for $617.10 — an example of resilience and a faith leader's participation in slavery."
+        },
+        {
+          "id": "spotlight_timbuctoo",
+          "name": "Timbuctoo",
+          "page": 59,
+          "summary": "Established September 1826 by four Black men who fled slavery in Maryland: Wardell Parker, Ezekiel Parker, David Parker, and Hezekiah Hall. Located in Burlington County, it grew to ~125 people with its own school and church. Served as an Underground Railroad station. In 1860, the community rallied to defend Perry Simmons, an escaped slave, from would-be captors."
+        },
+        {
+          "id": "spotlight_colonel_tye",
+          "name": "Colonel Tye",
+          "page": 63,
+          "summary": "Born enslaved as 'Titus' in Monmouth County, he fled in November 1775 and joined the British Army under Lord Dunmore's proclamation offering freedom. Given the honorary title 'Colonel,' he amassed an army of nearly 800 men, led raids freeing enslaved people, and became a feared military force. Wounded in September 1780, he died from infection shortly after. His army continued fighting until the war ended."
+        },
+        {
+          "id": "spotlight_cudjo_banquante",
+          "name": "Cudjo Banquante",
+          "page": 65,
+          "summary": "Born free in the 1720s in present-day Ghana into a royal Akan family. Kidnapped and trafficked to Newark. Served as substitute soldier for his enslaver in the Revolutionary War, fighting at Monmouth, Germantown, Valley Forge, and Yorktown. Emancipated for his service, he established a nursery in Newark and became the first Black business owner in the city. He died circa 1823 at around 100 years old."
+        }
+      ]
+    },
+    {
+      "id": "jim_crow",
+      "code": "III",
+      "order": 4,
+      "name": "New Jersey and the Jim Crow Era",
+      "summary": "Examination of how NJ's policies held Black people in second-class citizenship from 1870 through the 1960s through discriminatory policing, violent intimidation, segregation, and economic exclusion.",
+      "page_start": 75,
+      "page_end": 106,
+      "topics": [
+        {
+          "id": "black_migration_segregation",
+          "code": "III.1",
+          "order": 0,
+          "name": "Black Migration and Segregation",
+          "page": 78,
+          "content": "After WWI, Black people from southern states moved to NJ in the Great Migration seeking economic opportunity and freedom from Jim Crow terror. They found better-paying jobs but still limited opportunities — by 1940, 75% of 32,000 employed Black women in NJ worked as domestic workers. Men and women of African descent were largely excluded from the professional class.",
+          "key_points": [
+            "Great Migration brought Black southerners to NJ seeking opportunity",
+            "By 1940, 75% of employed Black women in NJ worked as domestic workers",
+            "Black people largely excluded from professional class (medicine, law, etc.)",
+            "Newark City Hospital did not admit a Black doctor until 1946 (Dr. E. Mae McCarroll)"
+          ]
+        },
+        {
+          "id": "racial_violence",
+          "code": "III.2",
+          "order": 1,
+          "name": "Racial Violence in New Jersey: Legal and Extralegal",
+          "page": 90,
+          "content": "NJ had a long history of racial violence. In 1809, white residents of Newark organized a committee to surveil and terrorize Black residents. In 1834, a white mob attacked a church during an anti-slavery sermon. Samuel 'Mingo Jack' Johnson was lynched in 1886 after being accused without trial. The KKK had 60,000+ members in NJ in the 1920s — more than Alabama or Louisiana. Klan members burned churches, staged mass rallies, and burned crosses at Black schools.",
+          "key_points": [
+            "1809: White committee organized to surveil and terrorize Black residents in Newark",
+            "1834: White mob destroyed church during anti-slavery sermon, attacked Black businesses",
+            "1886: Samuel 'Mingo Jack' Johnson lynched without trial — killers never faced justice",
+            "1920s: 60,000+ KKK members in NJ (more than Alabama or Louisiana)",
+            "KKK burned churches, staged rallies of thousands, burned crosses at Black schools"
+          ]
+        },
+        {
+          "id": "home_rule_env_racism",
+          "code": "III.3",
+          "order": 2,
+          "name": "Home Rule and Environmental Racism",
+          "page": 95,
+          "content": "NJ's system of 'home rule' and local governance enabled exclusionary zoning that maintained racial segregation. White communities used local control to exclude Black residents and concentrate environmental hazards in Black neighborhoods. Highway construction through Black communities (I-280, I-78, Garden State Parkway, NJ Turnpike) bisected neighborhoods without the environmental buffers provided to affluent areas.",
+          "key_points": [
+            "Home rule and exclusionary zoning maintained racial segregation",
+            "Major highway projects routed through Black communities in 1950s-60s",
+            "No environmental mitigation for highways through Black neighborhoods",
+            "Affluent areas got tree-lined buffers; Black communities got pollution"
+          ]
+        },
+        {
+          "id": "housing_discrimination",
+          "code": "III.4",
+          "order": 3,
+          "name": "Housing Discrimination: Redlining and More",
+          "page": 96,
+          "content": "Widespread use of racially restrictive covenants, denial of GI Bill homeownership opportunities for Black WWII veterans, and exclusionary zoning and lending practices like redlining systematically prevented Black families from building wealth through homeownership. These practices continued well into the 20th century and their effects persist today.",
+          "key_points": [
+            "Racially restrictive covenants widely used across NJ",
+            "Black WWII veterans denied GI Bill homeownership opportunities",
+            "Redlining systematically denied loans to Black neighborhoods",
+            "Exclusionary zoning maintained racial segregation",
+            "About 60% of Black people in NJ are renters today"
+          ]
+        },
+        {
+          "id": "economic_stratification",
+          "code": "III.5",
+          "order": 4,
+          "name": "Economic Stratification and Political Marginalization",
+          "page": 102,
+          "content": "Persistent racial discrimination stole opportunities from generations of NJ's Black residents. Exclusion from professional employment, labor unions, and educational institutions compounded over generations. Political marginalization through voter suppression, gerrymandering, and the party boss system further entrenched inequality.",
+          "key_points": [
+            "Systematic exclusion from professional employment and labor unions",
+            "Multi-generational compounding of economic disadvantage",
+            "Political marginalization through voter suppression and gerrymandering"
+          ]
+        },
+        {
+          "id": "civil_rights_resistance",
+          "code": "III.6",
+          "order": 5,
+          "name": "Resistance in the Civil Rights Era",
+          "page": 104,
+          "content": "Black NJ residents organized and resisted throughout the Jim Crow era. From community organizations to legal challenges to direct action, Black New Jerseyans fought for their rights and laid the groundwork for the broader Civil Rights Movement.",
+          "key_points": [
+            "NJ Supreme Court struck down school segregation in 1944",
+            "1947: State constitution amended to ban mandated school segregation",
+            "Black community organizing laid groundwork for broader Civil Rights Movement"
+          ]
+        }
+      ],
+      "spotlights": [
+        {
+          "id": "spotlight_bordentown",
+          "name": "The Bordentown School",
+          "page": 87,
+          "summary": "A pioneering educational institution for Black youth in NJ that provided rigorous academic and vocational training. The school represented one of the few quality educational options available to Black students in the Jim Crow era before it was eventually closed."
+        },
+        {
+          "id": "spotlight_fannie_lou_hamer",
+          "name": "Fannie Lou Hamer in Atlantic City",
+          "page": 105,
+          "summary": "At the 1964 Democratic National Convention in Atlantic City, Fannie Lou Hamer and the Mississippi Freedom Democratic Party challenged the all-white Mississippi delegation, delivering powerful testimony about racial violence and voter suppression that riveted the nation and exposed the contradictions of American democracy."
+        }
+      ]
+    },
+    {
+      "id": "two_new_jerseys",
+      "code": "IV",
+      "order": 5,
+      "name": "Two New Jerseys",
+      "summary": "Analysis of present-day NJ's staggering racial disparities in wealth, health, education, housing, environment, policing and incarceration — the direct legacy of slavery and Jim Crow.",
+      "page_start": 107,
+      "page_end": 143,
+      "topics": [
+        {
+          "id": "wealth_income_gaps",
+          "code": "IV.1",
+          "order": 0,
+          "name": "Wealth and Income Gaps",
+          "page": 109,
+          "content": "NJ at once embodies both one of the wealthiest states in the country and staggering racial disparity. The median wealth of white families is $662,500 while Black family wealth is just $19,700. The per capita income gap: white $63,808 vs Black $38,362. It would take 228 years for Black people in America to amass the wealth white people enjoy today at current rates.",
+          "key_statistics": [
+            {"metric": "White family median wealth", "value": "$662,500"},
+            {"metric": "Black family median wealth", "value": "$19,700"},
+            {"metric": "Racial family wealth gap", "value": "$642,800"},
+            {"metric": "White per capita income", "value": "$63,808"},
+            {"metric": "Black per capita income", "value": "$38,362"},
+            {"metric": "Years to close gap at current rate", "value": "228 years"},
+            {"metric": "White individual median wealth", "value": "$192,700"},
+            {"metric": "Black individual median wealth", "value": "$14,000"}
+          ]
+        },
+        {
+          "id": "homeownership_segregation",
+          "code": "IV.2",
+          "order": 1,
+          "name": "Homeownership, Affordable Housing and Segregation",
+          "page": 112,
+          "content": "Homeownership is a foundational way to build wealth, but it remains inaccessible for many Black residents. Newark has the highest proportion of Black residents of any NJ municipality with 75,000+ population, and 78% of Newark residents are renters. NJ is among the most segregated states in the nation for housing.",
+          "key_statistics": [
+            {"metric": "Newark renters", "value": "78%"},
+            {"metric": "Black renters statewide", "value": "~60%"},
+            {"metric": "NJ housing segregation", "value": "Among worst in nation"}
+          ]
+        },
+        {
+          "id": "school_segregation",
+          "code": "IV.3",
+          "order": 2,
+          "name": "School Segregation",
+          "page": 119,
+          "content": "NJ schools rank 7th most segregated nationwide for Black students. Newark and Essex County are the most segregated metropolitan region in America with a large Black population. Recent trends show racially and economically segregated schools are growing rather than diminishing. 25% of Black students attend schools where non-student population is 90-99% non-white.",
+          "key_statistics": [
+            {"metric": "NJ school segregation ranking", "value": "7th worst nationally"},
+            {"metric": "Newark/Essex County", "value": "Most segregated metro in America (large Black pop.)"},
+            {"metric": "Black students in hyper-segregated schools", "value": "25%"},
+            {"metric": "NJ school districts", "value": "~600 (vs 21 counties)"}
+          ]
+        },
+        {
+          "id": "environmental_injustice",
+          "code": "IV.4",
+          "order": 3,
+          "name": "Environmental Injustice",
+          "page": 120,
+          "content": "Federal and state officials planned major highway projects through Black communities during the Civil Rights Movement era. Where highways pass through affluent areas, they feature tree-lined buffers. In Black communities, highways pass directly through neighborhoods with schools, homes, and parks without mitigation. Black communities are disproportionately exposed to environmental toxins, industrial pollution, and climate change impacts.",
+          "key_points": [
+            "Major highways routed through Black communities without environmental protections",
+            "I-280, I-78, Garden State Parkway, NJ Turnpike bisect Black neighborhoods",
+            "Black communities bear disproportionate burden of pollution and toxic exposure",
+            "Environmental decisions made decades ago still shape daily air quality"
+          ]
+        },
+        {
+          "id": "health_disparities",
+          "code": "IV.5",
+          "order": 4,
+          "name": "Health Disparities",
+          "page": 124,
+          "content": "In 2022, Black NJ residents had the lowest life expectancy (74.6 years) of any racial group. Black infants die at 3-4 times the rate of white infants — up from 1.9 times in 1925, meaning the racial gap has widened despite medical advances. Black women are nearly seven times more likely to die in perinatal/postpartum period. Housing, education, income and wealth are major determinants of health outcomes.",
+          "key_statistics": [
+            {"metric": "Black life expectancy", "value": "74.6 years (lowest in NJ)"},
+            {"metric": "Black infant mortality rate", "value": "3-4x white rate"},
+            {"metric": "Change since 1925", "value": "Gap widened from 1.9x to 3-4x"},
+            {"metric": "Black maternal mortality", "value": "~7x white rate"}
+          ]
+        },
+        {
+          "id": "mental_health_violence",
+          "code": "IV.6",
+          "order": 5,
+          "name": "Mental Health, Community Stress and Violence",
+          "page": 128,
+          "content": "The cumulative effects of systemic racism — including poverty, housing instability, environmental exposure, and community violence — create profound mental health challenges in Black communities. Community stress from policing, incarceration, and historical trauma compounds these effects across generations.",
+          "key_points": [
+            "Cumulative effects of systemic racism create mental health crisis",
+            "Intergenerational trauma from slavery, Jim Crow, and ongoing discrimination",
+            "Community violence linked to systemic disinvestment",
+            "Inadequate mental health resources in Black communities"
+          ]
+        },
+        {
+          "id": "policing_incarceration",
+          "code": "IV.7",
+          "order": 6,
+          "name": "Policing and Incarceration: From Rebellion to Today",
+          "page": 129,
+          "content": "61% of incarcerated people in NJ are Black. Black adults are 12 times more likely to be incarcerated than white adults. Black youth are 28 times more likely to be incarcerated than white youth. 23-29% of Black adults are unable to serve on juries due to criminal convictions. The 1967 Newark Rebellion was a watershed moment driven by police brutality, housing discrimination, and economic marginalization.",
+          "key_statistics": [
+            {"metric": "Black share of NJ incarcerated population", "value": "61%"},
+            {"metric": "Black adult incarceration disparity", "value": "12x white rate"},
+            {"metric": "Black youth incarceration disparity", "value": "28x white rate"},
+            {"metric": "Black adults barred from juries", "value": "23-29%"}
+          ]
+        },
+        {
+          "id": "how_two_become_one",
+          "code": "IV.8",
+          "order": 7,
+          "name": "How Two New Jerseys Become One",
+          "page": 144,
+          "content": "The path from Two New Jerseys to one requires reparative action addressing the systemic roots of racial inequality. Direct payments, policy reforms, and institutional transformation are all necessary components of a comprehensive reparations framework that can begin to close the vast gaps documented in this section.",
+          "key_points": [
+            "Closing the wealth gap requires estimated $263-363 billion in investment",
+            "Systemic reform must accompany direct payments",
+            "Reparations are an investment in NJ's future, not just redress for the past"
+          ]
+        }
+      ],
+      "spotlights": [
+        {
+          "id": "spotlight_mount_laurel",
+          "name": "Mount Laurel",
+          "page": 115,
+          "summary": "The landmark Mount Laurel decisions by the NJ Supreme Court (1975 and 1983) established that every municipality has an obligation to provide affordable housing. Despite these rulings, exclusionary zoning and resistance to affordable housing development continue to maintain racial and economic segregation across the state."
+        },
+        {
+          "id": "spotlight_youth_justice",
+          "name": "Youth Justice & 150 Years is Enough",
+          "page": 141,
+          "summary": "NJ's youth justice system reflects the same racial disparities as the adult system, with Black youth 28 times more likely to be incarcerated. The '150 Years is Enough' campaign calls for ending youth incarceration and investing instead in community-based alternatives that address root causes."
+        }
+      ]
+    },
+    {
+      "id": "stories_nj_tells",
+      "code": "V",
+      "order": 6,
+      "name": "The Stories New Jersey Tells Itself",
+      "summary": "Examination of how NJ has obscured its history of slavery and racial inequality through narratives, curricula, and public memory — and the need for truth-telling.",
+      "page_start": 145,
+      "page_end": 162,
+      "topics": [
+        {
+          "id": "self_story",
+          "code": "V.1",
+          "order": 0,
+          "name": "Slavery in New Jersey: Our Self-Story",
+          "page": 150,
+          "content": "NJ has carefully crafted a public-facing narrative as 'the State of Opportunity.' That self-story leaves no room to consider the historic and present-day measures that specifically exclude Black NJ residents from that 'opportunity.' The state wears a 'progressive halo' that is belied by its history of racial violence and ongoing disparities. Scholarly theories cast the south as 'backward' and the north as progressive, sanitizing NJ's true history.",
+          "key_points": [
+            "NJ self-identifies as 'the State of Opportunity' — obscuring racial exclusion",
+            "Scholarly narrative cast the north as progressive, sanitizing complicity with slavery",
+            "The 'progressive halo' is belied by history and present-day disparities",
+            "Earlier historical accounts included slavery; later generations omitted it"
+          ]
+        },
+        {
+          "id": "public_education_curriculum",
+          "code": "V.2",
+          "order": 1,
+          "name": "Public Education and Curriculum",
+          "page": 155,
+          "content": "For most of NJ's history, the state's role in slavery has been underrepresented or absent from public school curricula. The Amistad Commission was established to integrate African American history into NJ education, but it has been underfunded and inconsistently implemented. Students in NJ often graduate without understanding the state's deep connection to slavery.",
+          "key_points": [
+            "NJ's slavery history underrepresented in school curricula",
+            "Amistad Commission created but underfunded and inconsistently implemented",
+            "Students often graduate without understanding NJ's connection to slavery",
+            "Curriculum reform is essential for narrative change"
+          ]
+        },
+        {
+          "id": "stories_resistance",
+          "code": "V.3",
+          "order": 2,
+          "name": "Stories of Resistance and Repair",
+          "page": 157,
+          "content": "Alongside the stories of oppression, there are powerful stories of Black resistance, resilience, and achievement in NJ. From the Underground Railroad to the Civil Rights Movement, from Timbuctoo to the People's Organization for Progress, Black NJ residents have always fought for freedom and justice. These stories must be told alongside the stories of harm.",
+          "key_points": [
+            "Black resistance stories are essential complement to documenting harm",
+            "Underground Railroad, Civil Rights organizing, and community building",
+            "Stories of Black achievement despite systemic barriers",
+            "Both harm and resistance must be part of NJ's narrative"
+          ]
+        },
+        {
+          "id": "telling_truth",
+          "code": "V.4",
+          "order": 3,
+          "name": "Telling the Truth",
+          "page": 162,
+          "content": "Truth-telling is the foundation of reparative justice. NJ must confront the full scope of its history — not just the comfortable narratives of progress, but the painful realities of slavery, Jim Crow, and ongoing systemic racism. The popular notion of colorblindness is not the answer. Reparations are about reckoning with and redressing the systems that perpetuated harm and still do.",
+          "key_points": [
+            "Truth-telling is the foundation of reparative justice",
+            "Colorblindness only blinds people to designed inequality",
+            "NJ must confront the full scope of its history",
+            "Reparations address systemic harm, not individual prejudice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blueprint_for_repair",
+      "code": "VI",
+      "order": 7,
+      "name": "A Blueprint for Repair: Policy Proposals",
+      "summary": "Comprehensive policy recommendations across 11 areas to repair enduring harm and empower Black people to flourish, including direct payments, systemic reform, and institutional transformation.",
+      "page_start": 163,
+      "page_end": 194,
+      "topics": [
+        {
+          "id": "policy_democracy",
+          "code": "VI.1",
+          "order": 0,
+          "name": "Democracy",
+          "page": 167,
+          "content": "Structural remedies for historic racism and discrimination in New Jersey's democracy, addressing electoral harms, political favoritism, and harms tied to migration.",
+          "recommendations": [
+            "Amend the NJ Constitution to reflect the original purpose of the Fourteenth Amendment",
+            "Create a Reparations Bureau",
+            "Close the Thirteenth Amendment's loophole for involuntary servitude in NJ",
+            "Create a multiparty electoral system encouraging parties representing Black community interests",
+            "Create and fund a right to counsel for matters involving all basic human rights",
+            "Require racial/ethnic impact statements for all state legislation and initiatives",
+            "Restore the right to vote to incarcerated people",
+            "Pass a New Jersey Voting Rights Act",
+            "Enact same-day voter registration",
+            "Enact racial justice reforms for redistricting with independent redistricting commission",
+            "Mandate paid time off to vote for all elections",
+            "Lower voting age to 16 for state, municipal and school board elections",
+            "Create a permanent Office of the Public Advocate",
+            "Allow only public financing of all campaigns for state and local office",
+            "Transition to full-time state legislators with full-time pay",
+            "End cooperation intended to deport immigrants",
+            "Provide basic resources for immigrants",
+            "Guarantee the right to vote in local elections for all residents including non-citizens"
+          ]
+        },
+        {
+          "id": "policy_economic_justice",
+          "code": "VI.2",
+          "order": 1,
+          "name": "Economic Justice",
+          "page": 169,
+          "content": "A Paul Robeson Plan for Black New Jersey — comprehensive economic justice recommendations including direct payments to close the racial wealth gap.",
+          "recommendations": [
+            "Provide direct payments to descendants of enslaved Black people in NJ for uncompensated labor",
+            "Provide direct payments to Black people in NJ for post-slavery harms",
+            "Provide direct payments to close the racial wealth gap ($178,000 per individual or $642,800 per family; total investment: $263-363 billion)",
+            "Establish a New Jersey Baby Bonds Program",
+            "Amend the state constitution to establish a fundamental right to employment (NJ Jobs Guarantee)",
+            "Increase the state minimum wage to a living wage, indexed to inflation",
+            "Enact state and local tax reform",
+            "Establish a state public bank",
+            "Pass a state Community Reinvestment Act",
+            "Create a sectoral bargaining law"
+          ]
+        },
+        {
+          "id": "policy_social_programs",
+          "code": "VI.3",
+          "order": 2,
+          "name": "Social Programs and Well-Being",
+          "page": 172,
+          "content": "Recommendations for social programs addressing basic needs, community development, and family preservation.",
+          "recommendations": [
+            "Establish guaranteed income for residents of NJ",
+            "Fund universal free breakfast, lunch and after-school meals in all NJ schools",
+            "Boost support for community development (transportation, child care, small business, social capital)",
+            "Implement a Family Preservation Fund redirecting funds to families when cases involve poverty-related neglect",
+            "Develop blind assessment protocol to reduce implicit bias in case decision-making",
+            "Create a humane system for emergency shelter and housing"
+          ]
+        },
+        {
+          "id": "policy_health_equity",
+          "code": "VI.4",
+          "order": 3,
+          "name": "Health Equity",
+          "page": 174,
+          "content": "Recommendations addressing racial health disparities including universal coverage, workforce development, and targeted interventions for Black maternal and infant health.",
+          "recommendations": [
+            "Establish universal health insurance coverage for all adults and children",
+            "Establish workforce development programs for diverse healthcare workforce",
+            "Guarantee state funding for co-located mental health programming in community settings",
+            "Create a mental health task force focused on Black residents",
+            "Require hospitals to publicly report quality, safety and health outcomes stratified by race/ethnicity",
+            "Create a Center for Black Health Excellence focusing on adverse health consequences of racism",
+            "Encourage training of Black healthcare professionals focusing on women's health",
+            "Evaluate feasibility of community-based birthing centers in predominantly Black communities",
+            "Invest in training Black healthcare professionals (student loan forgiveness)"
+          ]
+        },
+        {
+          "id": "policy_desegregation",
+          "code": "VI.5",
+          "order": 4,
+          "name": "Desegregation",
+          "page": 175,
+          "content": "Comprehensive desegregation recommendations addressing both school and housing segregation in New Jersey.",
+          "subtopics": [
+            {
+              "id": "policy_deseg_schools",
+              "name": "Segregated Schools",
+              "recommendations": [
+                "End requirement that students attend school within district boundaries",
+                "Consolidate school districts from 600 to 21 home county districts",
+                "Redress historic disinvestment in school funding and per-pupil spending",
+                "Conduct equity studies in districts statewide",
+                "Create Division of School Integration with enforcement power",
+                "Enact School Funding Formula Evaluation Task Force with integration goal",
+                "Remove segregationist loopholes from School Consolidation Law",
+                "Amend Charter School Act to require full integration",
+                "Amend County Vocational School Act to designate pro-integration magnet schools"
+              ]
+            },
+            {
+              "id": "policy_deseg_housing",
+              "name": "Segregated Housing and Communities",
+              "recommendations": [
+                "Expand affordable homeownership with focus on Black families",
+                "Build inclusive, fair and healthy housing in environmental justice communities",
+                "Create a statewide Land Bank Commission",
+                "Support expansion of community land trusts in urban cores",
+                "Establish a constitutional right to adequate and affordable housing",
+                "Strengthen prohibitions on exclusionary zoning",
+                "Strengthen statewide tenant protections",
+                "Invest in statewide study of history of racially restrictive covenants and redlining",
+                "Establish reparative homeownership program for descendants of those harmed by restrictive covenants and redlining"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "policy_higher_education",
+          "code": "VI.6",
+          "order": 5,
+          "name": "Higher Education",
+          "page": 179,
+          "content": "Recommendations to address the legacy of exclusion from higher education and make NJ colleges accessible and equitable for Black students.",
+          "recommendations": [
+            "Establish a scholarship fund and trust for Black students (debt-free graduation)",
+            "Invest in and expand NJ's College Promise programs",
+            "End legacy and donor preferences in admissions at NJ institutions of higher education"
+          ]
+        },
+        {
+          "id": "policy_environmental_justice",
+          "code": "VI.7",
+          "order": 6,
+          "name": "Environmental Justice",
+          "page": 179,
+          "content": "Recommendations to end environmental racism, transform urban centers, and ensure equitable access to clean, healthy environments.",
+          "recommendations": [
+            "End 'Sacrifice Zones' — transform urban centers by regulating toxic industries, remediating brownfields, increasing green spaces, creating zero-emissions zones, creating highway buffers, and ensuring resident input",
+            "Implement more stringent emissions standards for vehicles",
+            "Implement zero emissions standards for buildings",
+            "Invest deeply in environmental infrastructure (greenspace, reforestation, clean water, transportation, ports)",
+            "Prioritize educational opportunities and employment in the green economy",
+            "Protect NJ residents from climate change impacts through Community Climate Hubs",
+            "Create an independent Legal Defense and Litigation Fund for environmental justice"
+          ]
+        },
+        {
+          "id": "policy_public_safety",
+          "code": "VI.8",
+          "order": 7,
+          "name": "Public Safety and Justice",
+          "page": 181,
+          "content": "Comprehensive criminal justice reform recommendations addressing policing, prosecution, incarceration, and youth justice.",
+          "subtopics": [
+            {
+              "id": "policy_safety_policing",
+              "name": "Focus Policing on Imminent Threats",
+              "recommendations": [
+                "Invest in community-based organizations (multidisciplinary response teams, $20M/year for community violence prevention)",
+                "Remove traffic enforcement from local and state police responsibilities",
+                "Establish state law to prohibit pretextual stops",
+                "Establish state law to end qualified immunity for police officers",
+                "Increase transparency and civilian control over law enforcement",
+                "Remove law enforcement/school resource officers from all schools"
+              ]
+            },
+            {
+              "id": "policy_safety_prosecution",
+              "name": "Prosecution Reform",
+              "recommendations": [
+                "Decriminalize simple drug possession and use",
+                "Amend criminal code to remove jail time for minor criminal convictions",
+                "Establish a right to resentencing for rehabilitated individuals"
+              ]
+            },
+            {
+              "id": "policy_safety_incarceration",
+              "name": "Trials, Incarceration and Rehabilitation",
+              "recommendations": [
+                "Utilize clemency power to commute sentences (pardon all cannabis and simple drug convictions; decriminalize drug and sex trade offenses)",
+                "Invest in community integration instead of incarceration",
+                "Ensure returning citizens have full access to institutions (abolish jury service bar, allow all state benefits including housing)",
+                "Expunge criminal records for low-level offenses"
+              ]
+            },
+            {
+              "id": "policy_safety_parole",
+              "name": "Parole, Probation, and Returning Citizens",
+              "recommendations": [
+                "Create meaningful opportunities for parole release (eliminate technical violations, return to 1979 parole standard, consider youth as mitigation, institute medical/geriatric parole, provide re-entry income supports)"
+              ]
+            },
+            {
+              "id": "policy_safety_youth",
+              "name": "Youth Justice",
+              "recommendations": [
+                "Expand juvenile court jurisdiction to include people under age 25",
+                "Prohibit incarceration of youth (close youth prisons)",
+                "Mandate minimum age of 14 for criminal responsibility",
+                "Reopen modern-day Bordentown School for Black youth education and empowerment"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "policy_education_narrative",
+          "code": "VI.9",
+          "order": 8,
+          "name": "Public Education and Narrative",
+          "page": 185,
+          "content": "Recommendations for truth-telling, memorialization, curriculum reform, and narrative change to confront NJ's history and empower future generations.",
+          "recommendations": [
+            "Reissue an official state apology for slavery without denial of liability",
+            "Expand and update the Amistad Commission law (fund as core curriculum, include reparations education, fund educator training, expand to higher education, create trauma support fund)",
+            "Expand memorialization and cultural preservation of NJ's Black history (invest in Black cultural institutions, create interactive museum, community-led preservation, protect Black burial grounds)",
+            "Invest in narrative infrastructure (bus campaigns, public listening sessions, community meeting spaces, Black-owned media outlets)",
+            "Pass a slavery disclosure statute requiring institutions to audit participation in and profit from slavery"
+          ]
+        },
+        {
+          "id": "policy_faith_institutions",
+          "code": "VI.10",
+          "order": 9,
+          "name": "Faith Institutions",
+          "page": 187,
+          "content": "Recommendations for religious institutions across the state to engage in reparative work.",
+          "recommendations": [
+            "Religious institutions should engage in theological reckoning on reparations and pay restitution",
+            "Engage with Black faith institutions and congregations",
+            "Facilitate reconciliation and restorative work",
+            "Invest funds in NJ's Black religious institutions"
+          ]
+        },
+        {
+          "id": "policy_accountability",
+          "code": "VI.11",
+          "order": 10,
+          "name": "Accountability",
+          "page": 187,
+          "content": "Recommendations for ongoing monitoring, research, and accountability to ensure reparations efforts are implemented and effective.",
+          "recommendations": [
+            "Invest in research related to legacies of slavery and segregation, including funding for unresolved claims",
+            "Monitor progress of all reparations efforts, holding state and local entities accountable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "code": "VII",
+      "order": 8,
+      "name": "Conclusion",
+      "summary": "Final reflections by the Council co-chairs on the urgency of reparative action and the choice New Jersey faces.",
+      "page_start": 189,
+      "page_end": 194,
+      "topics": [
+        {
+          "id": "conclusion_main",
+          "code": "VII.1",
+          "order": 0,
+          "name": "The Future Is Ours to Make",
+          "page": 189,
+          "content": "James Baldwin wrote: 'Not everything that is faced can be changed, but nothing can be changed until it is faced.' This report is a call for New Jersey to face its history squarely and take bold action. The durability of slavery, segregation, and exclusionary policies privileging white life demands a response commensurate with the harm. The 1967 Newark Rebellion warned of the consequences of inaction; the ignored Kerner Commission findings forecast today's reality. As Langston Hughes wrote: 'Let America be the dream the dreamers dreamed.' The future is ours to make — with a choice to be accountable for future generations.",
+          "key_quotes": [
+            {"author": "James Baldwin", "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced."},
+            {"author": "Langston Hughes", "quote": "Let America be the dream the dreamers dreamed — Let it be that great strong land of love."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appendices",
+      "code": "VIII",
+      "order": 9,
+      "name": "Appendices",
+      "summary": "Supporting data including NJ state budget payments to enslavers (1806-1811) and calculations for closing the racial wealth gap.",
+      "page_start": 195,
+      "page_end": 200,
+      "topics": [
+        {
+          "id": "appendix_a",
+          "code": "VIII.1",
+          "order": 0,
+          "name": "Appendix A: NJ State Budget Payments to Enslavers (1806-1811)",
+          "page": 195,
+          "content": "Data from Jim Gigantino's 'The Ragged Road to Abolition' showing the total NJ state budget and percentage paid to enslavers from 1806 to 1811. Inflation calculations show payments to enslavers amounted to approximately $1 million in current dollars, reaching up to 27% of the state's annual budget in some years."
+        },
+        {
+          "id": "appendix_b",
+          "code": "VIII.2",
+          "order": 1,
+          "name": "Appendix B: Calculations for Closing the Racial Wealth Gap",
+          "page": 196,
+          "content": "Detailed calculations based on US Census data showing the investment required to close the racial wealth gap in NJ. Individual-level closure: approximately $178,000 per Black person ($263 billion total). Household-level closure: approximately $642,800 per Black family ($363 billion total). Analysis includes notes on distributional variations and methodological caveats.",
+          "calculations": [
+            {"level": "Individual", "gap_per_person": "$178,000", "total_investment": "$263 billion"},
+            {"level": "Household/Family", "gap_per_family": "$642,800", "total_investment": "$363 billion"}
+          ]
+        }
+      ]
+    }
+  ],
+
+  "council_committees": [
+    {
+      "name": "History of Slavery Committee",
+      "members": ["Elaine Buck", "Beverly Mills", "Leslie Alexander, PhD", "Kellie Carter Jackson, PhD"]
+    },
+    {
+      "name": "Democracy Committee",
+      "directors": ["Saladin Ambar, PhD", "Madiba Dennie, JD"],
+      "members": ["Jesse Burns", "Emahunn Campbell, PhD, Esq", "Larry Hamm", "Richard Roper"]
+    },
+    {
+      "name": "Economic Justice Committee",
+      "directors": ["Henry Coleman, PhD", "Walter Greason, PhD"],
+      "members": ["Beverly Brown Ruggia", "Darrick Hamilton, PhD", "Nicole Rodriguez, MA", "Jermaine Toney, PhD"]
+    },
+    {
+      "name": "Environmental Justice Committee",
+      "directors": ["Courtney Bowie, JD", "Melissa Miles, MA"],
+      "members": ["Maria Lopez-Nunez", "Nicole Miller", "Nicky Sheats, PhD, MPP, Esq.", "Mia Charlene White, PhD"]
+    },
+    {
+      "name": "Faith & Black Resistance Committee",
+      "directors": ["Rev. Timothy Adkins-Jones, PhD", "Rev. Charles Franklin Boyer, D.Min, MDiv"],
+      "members": ["Rabbi Joel Abraham, DD", "Stephanie James Harris, PhD", "Rev. Carol Patterson, DMin", "Imam Wahy-ud Deen Shareef"]
+    },
+    {
+      "name": "Health Equity Committee",
+      "directors": ["Denise Rodgers, MD", "Maisha Simmons, MA"],
+      "members": ["Richard Besser, MD", "Enobong (Anna) Branch, PhD", "Shawna Hudson, PhD", "Kimberly Mutcherson, JD", "Chris Pernell, MD, MPH", "Marcus Sibley, MSW"]
+    },
+    {
+      "name": "Public Safety & Justice Committee",
+      "directors": ["Alexis Karteron, JD", "Jason D. Williamson, JD"],
+      "members": ["Omavi Shukur, JD", "Amol Sinha, JD", "Bethany Young, JD, PhD"]
+    },
+    {
+      "name": "Public Education & Narrative Committee",
+      "directors": ["Dreisen Heath", "Kenya Tyson, JD"],
+      "members": ["Timothy Eatman, PhD", "Dionne Ford, MFA", "Mark Krasovic, PhD", "Jennifer Rae Taylor, JD"]
+    },
+    {
+      "name": "Segregation in New Jersey Committee",
+      "directors": ["Leticia Smith-Evans Haynes, JD, PhD", "Dennis Parker, JD"],
+      "members": ["Jacob William Faber, PhD", "Richard T. Smith", "David Troutt, JD", "James William IV, MS"]
+    }
+  ]
+}

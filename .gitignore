@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.claude/
+report/data/logs/
+*.jsonl
+*.jsonl.gz
+njrcreport.pdf
+njrcreport.txt
