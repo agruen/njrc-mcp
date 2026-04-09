@@ -69,30 +69,26 @@ cd report
 docker compose up --build -d
 ```
 
-### Connect from Claude Desktop
+### Connect from Claude
 
-```json
-{
-  "mcpServers": {
-    "njrc-report": {
-      "url": "https://rwjf-mcp.workingpaper.co/mcp/"
-    }
-  }
-}
-```
+1. Go to [claude.ai](https://claude.ai) and click your name (bottom left) -> **Settings** -> **Integrations**
+2. Click **Add Integration** -> choose **MCP**
+3. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
+4. Start a new chat — Claude will automatically use the report when answering your questions
 
-### Connect from Claude Code
+### Connect from ChatGPT
 
-```json
-{
-  "mcpServers": {
-    "njrc-report": {
-      "type": "streamableHttp",
-      "url": "https://rwjf-mcp.workingpaper.co/mcp"
-    }
-  }
-}
-```
+1. Go to [chatgpt.com](https://chatgpt.com) -> **Settings** -> **Connected apps**
+2. Click **Add connection**
+3. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
+4. Start a new chat — the report tools appear when you click the tools icon
+
+### Connect from Gemini
+
+1. Go to [aistudio.google.com](https://aistudio.google.com) and open a prompt
+2. In the left panel, click **Tools** -> **Add tool** -> **MCP Server**
+3. Paste the URL: `https://rwjf-mcp.workingpaper.co/mcp/`
+4. Start asking questions about the report
 
 ## Architecture
 
