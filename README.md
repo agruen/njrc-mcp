@@ -41,6 +41,16 @@ The Blueprint for Repair includes recommendations across 11 areas:
 - **Faith Institutions** (4 recommendations)
 - **Accountability** (2 recommendations)
 
+## Live Deployment
+
+The MCP server is live at:
+
+```
+https://rwjf-mcp.workingpaper.co/mcp/
+```
+
+Visit [https://rwjf-mcp.workingpaper.co](https://rwjf-mcp.workingpaper.co) for interactive documentation and setup instructions.
+
 ## Quick Start
 
 ### Local Development
@@ -49,7 +59,7 @@ The Blueprint for Repair includes recommendations across 11 areas:
 cd report
 pip install -r requirements.txt
 export NJRC_REPORT_JSON_PATH=./data/njrc-report.json
-gunicorn server:app -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8080
+gunicorn server:app -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8035
 ```
 
 ### Docker
@@ -65,7 +75,7 @@ docker compose up --build -d
 {
   "mcpServers": {
     "njrc-report": {
-      "url": "http://localhost:8080/mcp/"
+      "url": "https://rwjf-mcp.workingpaper.co/mcp/"
     }
   }
 }
@@ -78,7 +88,7 @@ docker compose up --build -d
   "mcpServers": {
     "njrc-report": {
       "type": "streamableHttp",
-      "url": "http://localhost:8080/mcp"
+      "url": "https://rwjf-mcp.workingpaper.co/mcp"
     }
   }
 }

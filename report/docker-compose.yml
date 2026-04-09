@@ -19,14 +19,14 @@ services:
       dockerfile: Dockerfile
       network: host
     ports:
-      - "${MCP_PORT:-8080}:8080"
+      - "${MCP_PORT:-8035}:8080"
     volumes:
       - ./data/logs:/var/log/mcp
     environment:
       - PORT=8080
       - NJRC_REPORT_JSON_PATH=/app/data/njrc-report.json
       - MCP_LOG_DIR=/var/log/mcp
-      - PUBLIC_HOST=${PUBLIC_HOST:-}
+      - PUBLIC_HOST=${PUBLIC_HOST:-rwjf-mcp.workingpaper.co}
       - MCP_API_KEY=${MCP_API_KEY:-}
       - MAX_LOG_LINES=${MAX_LOG_LINES:-10000}
       - DASH_EMBEDDED=1

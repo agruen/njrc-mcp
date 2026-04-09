@@ -442,7 +442,7 @@ async def mcp_docs():
   "mcpServers": {{
     "njrc-report": {{
       "type": "streamableHttp",
-      "url": "YOUR_MCP_URL/mcp"
+      "url": "https://rwjf-mcp.workingpaper.co/mcp"
     }}
   }}
 }}</code></pre>
